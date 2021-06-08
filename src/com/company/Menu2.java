@@ -5,7 +5,7 @@ public class Menu2 {
 
     public static void displayMenu(int[] options, String[] menuFunction){
         //Display Menu
-        System.out.println("*******  M E N U  *******");
+        System.out.println("*******\tM E N U\t*******");
         System.out.println("---------------------------------------");
         //Loop through the Menu Functions
         for(int i = 0; i < options.length; i++){
